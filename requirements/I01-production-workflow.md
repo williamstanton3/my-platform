@@ -78,7 +78,7 @@ By the end of the guided portion:
 - [x] The default branch is named `main`.
 - [x] The initial `README.md` has been committed locally.
 - [x] A public `my-platform` repository exists on GitHub.
-- [ ] GitHub CLI is installed and authenticated.
+- [x] GitHub CLI is installed and authenticated.
 - [x] The local repository is connected to GitHub as `origin`.
 - [x] Local `main` has been pushed to GitHub.
 - [x] A GitHub ruleset protects `main`.
